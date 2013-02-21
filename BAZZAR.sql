@@ -2,6 +2,8 @@ drop table `bazzar`.`person_address`;
 drop table `bazzar`.`person_creditcard`;
 drop table `bazzar`.`person_email`;
 drop table `bazzar`.`person_phone`;
+drop table `bazzar`.`person_ip`;
+drop table `bazzar`.`ips`;
 drop table `bazzar`.`person_questions`;
 drop table `bazzar`.`person_review`;
 drop table `bazzar`.`person_subscription`;
