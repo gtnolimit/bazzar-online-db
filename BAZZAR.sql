@@ -84,7 +84,6 @@ drop table `bazzar`.`lookup_month`;
 drop table `bazzar`.`lookup_orderstatustype`;
 drop table `bazzar`.`lookup_personprefix`;
 drop table `bazzar`.`lookup_phonetype`;
-drop table `bazzar`.`lookup_shoppingcartstatustype`;
 drop table `bazzar`.`lookup_statetype`;
 drop table `bazzar`.`lookup_statustype`;
 drop table `bazzar`.`loookup_notetype`;
