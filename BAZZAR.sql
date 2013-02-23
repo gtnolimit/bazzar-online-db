@@ -1,3 +1,4 @@
+
 drop table `bazzar`.`person_address`;
 drop table `bazzar`.`person_creditcard`;
 drop table `bazzar`.`person_email`;
@@ -21,8 +22,6 @@ drop table `bazzar`.`item_shipmentdemensions`;
 drop table `bazzar`.`item_specification`;
 drop table `bazzar`.`item_warranty`;
 drop table `bazzar`.`item_weight`;
-drop table `bazzar`.`order_address`;
-drop table `bazzar`.`order_customer`;
 drop table `bazzar`.`order_details`;
 drop table `bazzar`.`order_detail`;
 drop table `bazzar`.`order_note`;
